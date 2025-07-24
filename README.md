@@ -17,15 +17,15 @@ A modern currency converter web app built with **React**, **Vite**, and **Tailwi
 - **Tailwind CSS** – for modern utility-first styling
 - **Exchange Rate API** – for fetching currency rates
 
-📦 Getting Started
-# Clone the repo:
+## 📦 Getting Started
+### Clone the repo:
 - git clone https://github.com/your-username/currency-converter.git
 - cd currency-converter
 
-# Install dependencies
+### Install dependencies
 - npm install
 
-# Start the development server
+### Start the development server
 - npm run dev
 
 ## 🧠 How It Works
